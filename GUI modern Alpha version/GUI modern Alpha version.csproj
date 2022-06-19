@@ -61,6 +61,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller.cs" />
+    <Compile Include="DBManager.cs" />
     <Compile Include="Finance.cs">
       <SubType>Form</SubType>
     </Compile>
